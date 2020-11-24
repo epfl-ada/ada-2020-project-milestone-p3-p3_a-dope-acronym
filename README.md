@@ -2,16 +2,16 @@
 
 ## Abstract 
 
-There is more to human movement than periodic patterns and social-based movement. While the paper accurately predicts human movement throughout the week, we propose a more all-encompassing analysis that paints a broader picture, exploring monthly and seasonal movement. To do so, we will use the original check-in and friendship datasets from Gowalla and Brightkite, separate them into subsets representing a narrower time of the year. We want to see what mobility patterns are exhibited in different countries and throughout different times of the year: users can go on vacation, travel abroad, and change homes. This would allow us to understand the travelling patterns of users around the world (i.e. who is more likely to travel and where) as well as the distribution of check-ins and their density. We want to produce visualizations showcasing these patterns on a world map. 
+There is more to human movement than periodic patterns and social-based movement. While the paper accurately predicts human movement throughout the week, we propose a more all-encompassing analysis that paints a broader picture, exploring monthly and seasonal movement. To do so, we will use the original check-in and friendship datasets from Gowalla and Brightkite and separate them into subsets representing a narrower time of the year. We want to see what mobility patterns are exhibited in different countries and throughout different times of the year: users can go on vacation, travel abroad, and change homes. This would allow us to understand the travelling patterns of users around the world (i.e. who is more likely to travel and where) as well as the distribution of check-ins and their density. We want to produce visualizations showcasing these patterns on a world map. 
 
 ## Research Questions
 
 Using the same datasets as in the Friendship and Mobility paper, we will try to answer the following questions:
-1. How does human mobility fluctuate as a function of time throughout the year (e.g seasons, holidays, school, etc)?
+- How does human mobility fluctuate as a function of time throughout the year (e.g seasons, holidays, school, etc)?
   - Do poeple travel further during certain times of the year?
   - Are they more likely to see friends at certain times?
   - Does their home location change during the year (e.g. summer house)?
-2. How does spatial distribution of check-ins fluctuate throughout the year?
+- How does spatial distribution of check-ins fluctuate throughout the year?
   - Can we find spatial patterns and seasonal tourist destinations (e.g. ski resort, beaches)?
 
 ## Proposed Datasets
@@ -24,7 +24,7 @@ We plan on using the same datasets as the Friendship and Mobility paper. Both da
 
 To tackle the first question, we plan on using the timestamp and location from the check-in data in order to observe mobility patterns throughout the year.
 - We will do this by dividing the check-ins by month (perhaps by season) and doing an analysis similar to the one from the paper on distance travelled from home, probabilities to see friends... 
-- We plan on analyzing what times of the year people are likely to travel far from home, i.e. go on vacation. 
+- We plan on analyzing during what times of the year people are likely to travel far from home, i.e. go on vacation. 
 - We plan on analyzing how the home locations of the users change during the year: e.g. a user could move to a vacation house during the summer. This can be done by conducting the home calculation for each month or season.  
 
 To tackle the second question, we plan on analyzing check-ins depending on the country. To do this, we will group check-ins by country using a library mapping coordinates to an exact address (e.g. `geopy`). 
@@ -42,7 +42,7 @@ During this first part, we plan on focusing on the data wrangling part of the ta
 
 ### Week 2 (07.12 - 13.12)
 
-The second part will focus on data analysis visualization. This is where we will observe trends and patterns using the prepared data. Our goal by the end of this week is to have a first draft of the final creative extension. 
+The second part will focus on data analysis and visualization. This is where we will observe trends and patterns using the prepared data. Our goal by the end of this week is to have a first draft of the final creative extension. 
 
 ### Week 3 (14.12 - deadline)
 
