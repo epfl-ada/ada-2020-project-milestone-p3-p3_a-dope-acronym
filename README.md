@@ -36,11 +36,11 @@ To tackle the second question, we plan on analyzing check-ins depending on the c
 
 We will divide the time alotted for this assignment into roughly three weekly parts. 
 
-- Week 1 (30.11 - 06.12): During this first part, we plan on focusing on the data wrangling part of the task. This consists in preparing the data by computing home locations, grouping by months, finding travelers. This also consists in augmenting the check-ins by adding the country corresponding to each check-in coordinate.
+- **Week 1 (30.11 - 06.12)**: during this first part, we plan on focusing on the data wrangling part of the task. This consists in preparing the data by computing home locations, grouping by months, finding travelers. This also consists in augmenting the check-ins by adding the country corresponding to each check-in coordinate.
 
-- Week 2 (07.12 - 13.12): The second part will focus on data analysis and visualization. This is where we will observe trends and patterns using the prepared data. Our goal by the end of this week is to have a first draft of the final creative extension. 
+- **Week 2 (07.12 - 13.12)**: the second part will focus on data analysis and visualization. This is where we will observe trends and patterns using the prepared data. Our goal by the end of this week is to have a first draft of the final creative extension. 
 
-- Week 3 (14.12 - deadline): We will spend this last week cleaning up the project and preparing for the final submission. We will also dedicate these last few days to the video.
+- **Week 3 (14.12 - deadline)**: we will spend this last week cleaning up the project and preparing for the final submission. We will also dedicate these last few days to the video.
 
 ## Team Organization
 
@@ -48,16 +48,16 @@ For each of the three weeks we have decided on a strategy that combines pair pro
 
 ### Week 1
 
-- Ben and Karim: Reuse methods from replication of figure 2a to assign a home to each user and expand upon this by assigning a country to each check-in coordinate and inferring the home country of each user.
-- Sander and Ben: Group check-ins temporally, i.e. by months and by seasons and identify users who are travelers.
-- Karim and Sander: Assess work done during week and start preliminaries for week 2.
+- Ben and Karim: reuse methods from replication of figure 2a to assign a home to each user and expand upon this by assigning a country to each check-in coordinate and inferring the home country of each user.
+- Sander and Ben: group check-ins temporally, i.e. by months and by seasons and identify users who are travelers.
+- Karim and Sander: assess work done during week and start preliminaries for week 2.
 
 ### Week 2
 
-- Ben and Sander: Analyze and visualize how far people are likely to travel from home at different times of the year. 
-- Sander and Karim: Analyze how home locations of users change as a function of time of year (i.e. summer homes).
-- Karim and Ben: Isolate users that travel abroad and infer the most popular tourist locations.
-- Ben and Karim and Sander: Visualization of the world map and the fluctuation of check-ins throughout the year.
+- Ben and Sander: analyze and visualize how far people are likely to travel from home at different times of the year. 
+- Sander and Karim: analyze how home locations of users change as a function of time of year (i.e. summer homes).
+- Karim and Ben: isolate users that travel abroad and infer the most popular tourist locations.
+- Ben and Karim and Sander: visualization of the world map and the fluctuation of check-ins throughout the year.
 
 ### Week 3
 
