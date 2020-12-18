@@ -1,6 +1,6 @@
 # Detecting Seasonal Patterns in User Movement  
 
-< Disclaimer: Some plots are rendered with `plotly`, therefore they might not be rendered correctly in GitHub. Please refer to the Data Story for the plots. >
+> Disclaimer: Some plots are rendered with `plotly`, therefore they might not be rendered correctly in GitHub. Please refer to the Data Story for the plots.
 
 ## Abstract 
 
