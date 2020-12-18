@@ -1,5 +1,7 @@
 # Detecting Seasonal Patterns in User Movement  
 
+< Disclaimer:
+
 ## Abstract 
 
 There is more to human mobility than periodic patterns and social-based movement. Understanding how people travel between geographic regions and how the properties of these regions influence movement can greatly benefit general applications such as tourism, urban-planning, and policy-making. Using the original Brightkite dataset, we analyse the details of national and international travel, as well as temporal discrepancies beyond weekly patterns. The visualization of our findings will allow us to understand how various geographical features, such as cities, beaches, or mountains, are responsible for travel in different temporal splits and how these differences in movement vary between countries. 
