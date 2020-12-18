@@ -1,6 +1,6 @@
 # Detecting Seasonal Patterns in User Movement  
 
-< Disclaimer:
+< Disclaimer >
 
 ## Abstract 
 
